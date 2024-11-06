@@ -9,7 +9,8 @@ A large contiguous area is specified for pixel dropout. **Center Filter (CF):** 
 
 ![image](https://github.com/user-attachments/assets/8510aedd-46d1-4f6b-9ab2-d64e2d9a70c3)
 
-![image](https://github.com/user-attachments/assets/75d0a640-fe0d-47f2-aecd-c0a245480997)
+![image](https://github.com/user-attachments/assets/76fa9168-ac68-4f4c-9df1-95b257d43337)
+
 
 **Details**
 ![image](https://github.com/user-attachments/assets/c444a4af-1c0f-4981-a302-a640b3376b38)
