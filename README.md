@@ -1,5 +1,4 @@
 # Counterfactual-ultrasoundAI
-Counterfactual Ultrasound Anti-Interference Self-Supervised Network for B-mode Ultrasound Tongue Extraction
 
 
 **Overview of our framework.** **Grid Dropout (GD):** Dropout is applied to specific pixels in a grid-like fashion. **Center Dropout (CD):**
